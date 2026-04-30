@@ -63,9 +63,9 @@ author:
 include:
   - .htaccess
   - _pages
+  - docs
   - files
 exclude:
-  - docs
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
