@@ -122,5 +122,7 @@ Are you interested in joining our group as a graduate student or an undergraduat
 
 I accept graduate students through the [Department of Civil, Environmental, and Architectural Engineering (CEAE)](https://ceae.ku.edu/) at the University of Kansas. Our CEAE graduate programs offer both Masters and Ph.D. degrees, though their admission and degree requirements differ. In order to be considered for a position in my group, you will have to submit your official application to the CEAE department. Once we have established a good match in terms of your interests, preparation, and goals, the most important step for securing a position in my group is to identify a source of funding. The most common form of funding is through external grants on specific research projects. However, when no external grant funding is available, I can still work with you to apply for fellowships, such as the ones listed below. Please let me know if you plan on pursuing one of these options. 
 
-Fellowships for graduate students: 
+**Fellowships for graduate students:**
+- NSF Graduate Research Fellowship: https://www.nsfgrfp.org/ 
+
 
