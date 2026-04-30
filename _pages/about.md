@@ -25,11 +25,10 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 **I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work.**
 
-<!--
+
 # 🔥 News
-- August 2026: ...
-- May 2026: A and B won KU SoE scholarships.
--->
+<!-- - August 2026: ... -->
+<!-- - May 2026: A and B won KU SoE scholarships. -->
 
 
 # 👥 Team
