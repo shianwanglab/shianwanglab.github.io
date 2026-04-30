@@ -31,7 +31,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 # 👥 Team
 Current Members
-- *Ph.D. students*: 
+- Ph.D. students: 
 - *M.S. students*: Logan Pittman
 - *Undergraduate students*: Albert Agah
 
