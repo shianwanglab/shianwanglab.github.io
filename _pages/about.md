@@ -126,7 +126,7 @@ I accept graduate students through the [Department of Civil, Environmental, and 
 **Fellowships for graduate students:**
 - NSF Graduate Research Fellowship: [https://www.nsfgrfp.org/](https://www.nsfgrfp.org/)
 - NASA funding opportunities: [https://science.nasa.gov/learners/learner-opportunities](https://science.nasa.gov/learners/learner-opportunities)
-- Fulbright Scholars Program (for international students): [https://cies.org/](https://cies.org/)
+- Fulbright Scholar Program (for international students): [https://cies.org/](https://cies.org/)
 - Nationally competitive fellowships (compiled by NC State University): [https://grad.ncsu.edu/students/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/](https://grad.ncsu.edu/students/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/)
 
 **Fellowships for undergraduate students at KU:**
