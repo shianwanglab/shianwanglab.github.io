@@ -23,10 +23,11 @@ Hello! I am an Assistant Professor in the <a href="https://ceae.ku.edu/" target=
 
 I earned my Ph.D. in civil engineering from the University of Minnesota, where I worked with <a href="https://sites.google.com/umn.edu/mlevin/home" target="_blank">Michael Levin</a>. Prior to that, I received an M.S. in electrical and computer engineering from the University of Ottawa under the supervision of <a href="https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/nasir-uddin-ahmed" target="_blank">N.U. Ahmed</a>. Outside of research, I enjoy running (5K and 10K), playing tennis, hiking, watching documentaries, and learning new card tricks.
 
-
+<!--
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *August 2026*: ...
+- *May 2026*: A and B won KU SoE scholarships.
+-->
 
 # 📝 Publications 
 
