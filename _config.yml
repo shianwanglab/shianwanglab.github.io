@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shi'an Wang"
-description              : 
+description              : "The University of Kansas"
 repository               : "shianwanglab/shianwanglab.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/Photo_SW.png"
   bio              : 
   location         : "Lawrence, KS"
-  employer         : "The University of Kansas"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "shian.wang@ku.edu"
