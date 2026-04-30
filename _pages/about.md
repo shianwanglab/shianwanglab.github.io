@@ -30,28 +30,28 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 -->
 
 # 👥 Team
-Current Members
+**Current Members**
 - Ph.D. Students: 
 - M.S. Students: Logan Pittman
 - Undergraduate Students: Albert Agah
 
-Alumni
+**Alumni**
 - Ph.D. Students: 
 - M.S. Students: Jose Carlos Acedo Aguilar 
 - Undergraduate Students: Haveeair Caballero, Fernando Sepulveda
 
 # 📝 Publications 
-Books
+**Books**
 - Ahmed, N. U. & S. Wang. [Measure-valued solutions for nonlinear evolution equations on Banach spaces and their optimal control](https://link.springer.com/book/10.1007/978-3-031-37260-5). *Springer*, 2023 (227 pages).
-- Ahmed, N. U. & S. Wang.
-- 
-Journal articles
+- Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
+
+**Journal articles**
 
 
 
 
 
-Conference proceedings
+**Conference proceedings**
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
