@@ -116,7 +116,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 
 
 # 📢 Join Us
-I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work. Due to the volume of inquiries, I may not be able to respond to every message.
+**I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work.** Due to the volume of inquiries, I may not be able to respond to every message.
 
 Are you interested in joining our group as a graduate student or an undergraduate researcher? Before inquiring, please review the information below. I also encourage you to explore this website and read our publications to get a better sense of the work we do. 
 
@@ -132,6 +132,4 @@ I accept graduate students through the [Department of Civil, Environmental, and 
 - School of Engineering Undergraduate Research Fellowship (UGRF): https://engr.ku.edu/undergraduate-research-fellows
 - KU Undergraduate Research Awards (UGRAs): https://curf.ku.edu/undergraduate-research-awards
 
-I hope this information is helpful as you continue on your search. 
-
-
+I hope this information is helpful as you continue your search.
