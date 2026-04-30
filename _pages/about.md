@@ -88,35 +88,18 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Shang, M., S. Wang, T. Li, & R. Stern (2024). [Interaction-aware model predictive control for autonomous vehicles in mixed-autonomy traffic](https://ieeexplore.ieee.org/abstract/document/10588654). *The 35th IEEE Intelligent Vehicles Symposium (IV 2024)*, 317-322.
 - Li, T., S. Wang, M. Shang, & R. Stern (2024). [Can cyberattacks on adaptive cruise control vehicles be effectively detected?](https://ieeexplore.ieee.org/abstract/document/10588379) *The 35th IEEE Intelligent Vehicles Symposium (IV 2024)*, 323-328.
 - Aguilar, J. A. & S. Wang (2024). [Energy impacts of traffic-smoothing cruise controllers on mixed traffic](https://ieeexplore.ieee.org/abstract/document/10485545). *The 4th IEEE Forum for Innovative Sustainable Transportation Systems (FISTS 2024)*, 1-6. ([Best Paper Runner-Up Award](https://ieee-fists.org/2024/awards/))
-- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Shang, M., S. Wang, & R. Stern (2023). [Capacity implications of personalized adaptive cruise control](https://ieeexplore.ieee.org/abstract/document/10422190). *The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)*, 3168-3173.
+- Li, T., B Rosenblad, S. Wang, M. Shang, & R. Stern (2023). [Exploring energy impacts of cyberattacks on adaptive cruise control vehicles](https://ieeexplore.ieee.org/abstract/document/10186730). *The 34th IEEE Intelligent Vehicles Symposium (IV 2023)*.
+- Wang, S. (2023) [A novel framework for modeling and synthesizing stealthy cyberattacks on driver-assist enabled vehicles](https://ieeexplore.ieee.org/abstract/document/10186690). *The 34th IEEE Intelligent Vehicles Symposium (IV 2023)*.
+- He, S., S. Wang, Y. Shao, Z., Sun, & M. W. Levin (2023). [Real-time traffic prediction considering lane changing maneuvers with application to eco-driving control of electric vehicles](https://ieeexplore.ieee.org/abstract/document/10186645). *The 34th IEEE Intelligent Vehicles Symposium (IV 2023)*.
+- Li, T., M. Shang, S. Wang, M. Filippelli, & R. Stern (2022). [Detecting stealthy cyberattacks on automated vehicles via generative adversarial networks](https://ieeexplore.ieee.org/abstract/document/9922128). *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)*, 3632-3637.
+- Shang, M., S. Wang, & R. Stern (2022). [Modeling adaptive cruise control vehicles: a continuous asymmetric car-following perspective](https://ieeexplore.ieee.org/abstract/document/9921792). *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)*, 923-928.
+- Wang, S., M. Shang, M. W. Levin, & R. Stern (2022). [Smoothing nonlinear mixed traffic with autonomous vehicles: control design](https://ieeexplore.ieee.org/abstract/document/9921798). *The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC 2022)*, 661-666.
+- Wang, S. & Z. Li (2021). [Optimal policy for integration of automated vehicles into the auto market: A control-theoretic perspective](https://ieeexplore.ieee.org/document/9564708). *The 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021)*, 3470-3475.
+- Sun. W., S. Wang, Y. Shao, Z. Sun, & M. W. Levin (2021). [Traffic prediction for connected vehicles on a signalized arterial](https://ieeexplore.ieee.org/document/9564849). *The 24th IEEE International Conference on Intelligent Transportation Systems (ITSC 2021)*, 1968-1973.
+- Wang, S., M. W. Levin, & R. J. Caverly (2021). [Optimal parking management of connected autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9482888). *The 2021 American Control Conference (ACC 2021)*, 1022-1027.
+- Wang, S. & N. U. Ahmed (2018). [Stochastic dynamic model of city bus routes and their optimum management](https://ieeexplore.ieee.org/document/8724747). *The 4th IEEE International Conference on Control Science and Systems Engineering (ICCSSE 2018)*, 427-432.
+- Wang, S. & N. U. Ahmed (2018). [Dynamic model of bank queuing system and its optimal management](https://ieeexplore.ieee.org/document/8724754). *The 4th IEEE International Conference on Control Science and Systems Engineering (ICCSSE 2018)*, 510-514.
 
 
 # 🎖 Honors and Awards
