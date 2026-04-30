@@ -23,6 +23,8 @@ Hello! I am an Assistant Professor in the <a href="https://ceae.ku.edu/" target=
 
 I earned my Ph.D. in civil engineering from the University of Minnesota, where I worked with <a href="https://sites.google.com/umn.edu/mlevin/home" target="_blank">Michael Levin</a>. My [Ph.D. dissertation](https://www.proquest.com/docview/2774369298?sourcetype=Dissertations%20&%20Theses) on the planning, operation, and management of automated transportation systems received the [2023 IEEE ITS Best Dissertation Award—First Prize](https://ieee-itss.org/awards/best-dissertation/) from the IEEE Intelligent Transportation Systems Society. Prior to that, I received an M.S. in electrical and computer engineering from the University of Ottawa under the supervision of <a href="https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science/directory/nasir-uddin-ahmed" target="_blank">N.U. Ahmed</a>. Outside of research, I enjoy running (5K and 10K), playing tennis, hiking, watching documentaries, and learning new card tricks.
 
+**I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work.**
+
 <!--
 # 🔥 News
 - August 2026: ...
@@ -116,7 +118,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 
 
 # 📢 Join Us
-**I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work.** Due to the volume of inquiries, I may not be able to respond to every message.
+**I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work.** Candidates with a background in civil engineering, electrical and computer engineering, industrial engineering, applied mathematics, or a related field are strongly encouraged to apply. Priority will be given to applicants with proficiency in programming (e.g., MATLAB, Python, or C++) and traffic simulation tools (e.g., Vissim, SUMO, or MATSim). We work best with students who have strong communication skills and enthusiasm for interdisciplinary, independent research. Due to the volume of inquiries, I may not be able to respond to every message.
 
 Are you interested in joining our group as a graduate student or an undergraduate researcher? Before inquiring, please review the information below. I also encourage you to explore this website and read our publications to get a better sense of the work we do. 
 
