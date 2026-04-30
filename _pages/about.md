@@ -29,6 +29,13 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - *May 2026*: A and B won KU SoE scholarships.
 -->
 
+# 👥 Team
+Current Members
+- *Ph.D students*: 
+- *M.S. students*: Logan Pittman 
+
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
