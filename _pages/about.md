@@ -29,6 +29,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - May 2026: A and B won KU SoE scholarships.
 -->
 
+
 # 👥 Team
 **Current Members**
 - Ph.D. Students: 
@@ -36,9 +37,16 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - Undergraduate Students: Albert Agah
 
 **Alumni**
-- Ph.D. Students: 
+<!-- - Ph.D. Students: -->
 - M.S. Students: Jose Carlos Acedo Aguilar 
 - Undergraduate Students: Haveeair Caballero, Fernando Sepulveda
+
+
+# 👨‍🏫 Teaching
+- CE 883: Transportation Cyber-Physical Systems, Fall 2026
+- CE 240: Geomatics, Spring 2026
+- CE 786: Highway Safety, Fall 2025
+
 
 # 📝 Publications 
 If you would like a copy of the articles, please email me directly. I would be happy to send them to you.
@@ -77,7 +85,6 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Wang, S. & N. U. Ahmed (2019). [Optimum management of the network of city bus routes based on a stochastic dynamic model](https://www.aimsciences.org/article/doi/10.3934/jimo.2018061). *Journal of Industrial and Management Optimization, 15(2), 619-631.
 - Wang, S. & N. U. Ahmed (2017). [Dynamic model of urban traffic and optimum management of its flow and congestion](https://acadsol.eu/dsa/26/34/12). *Dynamic Systems and Applications*, 26, 575-587.
 
-
 **Conference Proceedings**
 - Ahmed, S., S. Wang., & A. Kondyli. Examining the effectiveness of traffic-smoothing autonomous vehicle controllers in the presence of lane-changing maneuvers. *The 37th IEEE Intelligent Vehicles Symposium (IV 2026)*.
 - Li, T., S. Wang, M. Shang, S. Choi, & R. Stern (2024). [A customizable neural network based framework for autonomous vehicle control with human-guided learning](https://ieeexplore.ieee.org/abstract/document/10919962). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 3064-3069.
@@ -106,9 +113,11 @@ If you would like a copy of the articles, please email me directly. I would be h
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
