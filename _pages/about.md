@@ -115,19 +115,12 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Wang, S. & N. U. Ahmed (2018). [Dynamic model of bank queuing system and its optimal management](https://ieeexplore.ieee.org/document/8724754). *The 4th IEEE International Conference on Control Science and Systems Engineering (ICCSSE 2018)*, 510-514.
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📢 Join Us
+I am always on the lookout for motivated students to join our group. If you are interested in our research, please reach out with your CV and a brief statement on how your interests align with our group's. Unfortunately, I will not be able to respond to every inquiry due to the volume of emails received. 
 
+Are you interested in joining our group as a graduate student or an undergraduate researcher? Before inquiring about opportunities in my group, please review the information below. I also encourage you to look through this website and read up on our publications to get a flavor for the type of work we do. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I accept graduate students through the [Department of Civil, Environmental, and Architectural Engineering (CEAE)](https://ceae.ku.edu/) at the University of Kansas. Our CEAE graduate programs offer both Masters and Ph.D. degrees, though their admission and degree requirements differ. In order to be considered for a position in my group, you will have to submit your official application to the CEAE department. Once we have established a good match in terms of your interests, preparation, and goals, the most important step for securing a position in my group is to identify a source of funding. The most common form of funding is through external grants on specific research projects. However, when no external grant funding is available, I can still work with you to apply for fellowships, such as the ones listed below. Please let me know if you plan on pursuing one of these options. 
 
+Fellowships for graduate students: 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
