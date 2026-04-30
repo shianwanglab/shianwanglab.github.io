@@ -47,7 +47,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Ahmed, N. U. & S. Wang. [Measure-valued solutions for nonlinear evolution equations on Banach spaces and their optimal control](https://link.springer.com/book/10.1007/978-3-031-37260-5). *Springer*, 2023 (227 pages).
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
 
-**Journal articles**
+**Journal Articles**
 - Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles. *Transportation Research Record: Journal of the Transportation Research Board*.
 - Wang, S., M. W. Levin, & R. Stern. [String stable control design for automated vehicles under cyberattacks](https://www.tandfonline.com/doi/full/10.1080/15472450.2024.2425297). *Journal of Intelligent Transportation Systems*, 1-13.
 - Pang, S., D. Patel, Y. Liu, S. Wang, C. Lin, S. He, & T. Li (2026). [Large language models for car following in automated driving: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S3050860626000025). *Artificial Intelligence for Transportation*, 6, 100047.
@@ -78,23 +78,8 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Wang, S. & N. U. Ahmed (2017). [Dynamic model of urban traffic and optimum management of its flow and congestion](https://acadsol.eu/dsa/26/34/12). *Dynamic Systems and Applications*, 26, 575-587.
 
 
+**Conference Proceedings**
 
-**Conference proceedings**
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
--->
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
