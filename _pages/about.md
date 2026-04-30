@@ -25,8 +25,8 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 <!--
 # 🔥 News
-- *August 2026*: ...
-- *May 2026*: A and B won KU SoE scholarships.
+- August 2026: ...
+- May 2026: A and B won KU SoE scholarships.
 -->
 
 # 👥 Team
