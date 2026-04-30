@@ -42,6 +42,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 # 📝 Publications 
 If you would like a copy of the articles, please email me directly. I would be happy to send them to you.
+
 **Books**
 - Ahmed, N. U. & S. Wang. [Measure-valued solutions for nonlinear evolution equations on Banach spaces and their optimal control](https://link.springer.com/book/10.1007/978-3-031-37260-5). *Springer*, 2023 (227 pages).
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
