@@ -116,13 +116,22 @@ If you would like a copy of the articles, please email me directly. I would be h
 
 
 # 📢 Join Us
-I am always on the lookout for motivated students to join our group. If you are interested in our research, please reach out with your CV and a brief statement on how your interests align with our group's. Unfortunately, I will not be able to respond to every inquiry due to the volume of emails received. 
+I am always looking for motivated students to join our group. If you are interested in our research, please reach out with your CV, transcripts, and a brief statement describing how your interests align with our work. Due to the volume of inquiries, I may not be able to respond to every message.
 
-Are you interested in joining our group as a graduate student or an undergraduate researcher? Before inquiring about opportunities in my group, please review the information below. I also encourage you to look through this website and read up on our publications to get a flavor for the type of work we do. 
+Are you interested in joining our group as a graduate student or an undergraduate researcher? Before inquiring, please review the information below. I also encourage you to explore this website and read our publications to get a better sense of the work we do. 
 
-I accept graduate students through the [Department of Civil, Environmental, and Architectural Engineering (CEAE)](https://ceae.ku.edu/) at the University of Kansas. Our CEAE graduate programs offer both Masters and Ph.D. degrees, though their admission and degree requirements differ. In order to be considered for a position in my group, you will have to submit your official application to the CEAE department. Once we have established a good match in terms of your interests, preparation, and goals, the most important step for securing a position in my group is to identify a source of funding. The most common form of funding is through external grants on specific research projects. However, when no external grant funding is available, I can still work with you to apply for fellowships, such as the ones listed below. Please let me know if you plan on pursuing one of these options. 
+I accept graduate students through the [Department of Civil, Environmental, and Architectural Engineering (CEAE)](https://ceae.ku.edu/) at the University of Kansas. The CEAE graduate programs offer both M.S. and Ph.D. degrees, with different admission and degree requirements. To be considered for a position in my group, you must submit an official application to the CEAE department. Once we determine a strong match in terms of interests, preparation, and goals, securing funding becomes the key step. The most common source of funding is through externally funded research projects. When such funding is not immediately available, I am happy to work with you to apply for fellowships, such as those listed below. Please let me know if you plan to pursue any of these opportunities.
 
 **Fellowships for graduate students:**
-- NSF Graduate Research Fellowship: https://www.nsfgrfp.org/ 
+- NSF Graduate Research Fellowship: https://www.nsfgrfp.org/
+- NASA funding opportunities: https://science.nasa.gov/learners/learner-opportunities
+- Fulbright Scholars Program (for international students): https://cies.org/
+- Nationally competitive fellowships (compiled by NC State University): https://grad.ncsu.edu/students/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/
+
+**Fellowships for undergraduate students at KU:**
+- School of Engineering Undergraduate Research Fellowship (UGRF): https://engr.ku.edu/undergraduate-research-fellows
+- KU Undergraduate Research Awards (UGRAs): https://curf.ku.edu/undergraduate-research-awards
+
+I hope this information is helpful as you continue on your search. 
 
 
