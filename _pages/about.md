@@ -31,14 +31,14 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 # 👥 Team
 Current Members
-- Ph.D. students: 
-- *M.S. students*: Logan Pittman
-- *Undergraduate students*: Albert Agah
+- Ph.D. Students: 
+- M.S. Students: Logan Pittman
+- Undergraduate Students: Albert Agah
 
 Alumni
-- *Ph.D. students*: 
-- *M.S. students*: Jose Carlos Acedo Aguilar 
-- *Undergraduate students*: Haveeair Caballero, Fernando Sepulveda
+- Ph.D. Students: 
+- M.S. Students: Jose Carlos Acedo Aguilar 
+- Undergraduate Students: Haveeair Caballero, Fernando Sepulveda
 
 # 📝 Publications 
 
