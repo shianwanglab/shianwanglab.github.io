@@ -47,7 +47,16 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 **Journal articles**
 - Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles. *Transportation Research Record: Journal of the Transportation Research Board*.
-
+- Wang, S., M. W. Levin, & R. Stern. [String stable control design for automated vehicles under cyberattacks](https://www.tandfonline.com/doi/full/10.1080/15472450.2024.2425297). *Journal of Intelligent Transportation Systems*, 1-13.
+- Pang, S., D. Patel, Y. Liu, S. Wang, C. Lin, S. He, & T. Li (2026). [Large language models for car following in automated driving: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S3050860626000025). *Artificial Intelligence for Transportation*, 6, 100047.
+- He, S., S. Wang, Y. Shao, Z. Sun, & M. W. Levin (2026). [A connectivity-based real-time traffic prediction considering lane-changing maneuvers with application to eco-driving control of electric vehicles](https://ieeexplore.ieee.org/document/11097903). *IEEE Transactions on Vehicular Technology*, 75(1), 168-181.
+- Pan, M., W. Li, C. Wang, S. Wang, F. Li, J. Dong, & J. New (2025). [Evaluating system responses to electric vehicle charging infrastructure expansion through data-driven simulation](https://www.sciencedirect.com/science/article/pii/S2213138825003960). *Sustainable Energy Technologies and Assessments*, 82, 104565.
+- Aguilar, J. A. & S. Wang (2025). [Dynamic modeling and optimal planning for integrating electric vehicles and renewable energy into coupled traffic-power systems](https://ieeexplore.ieee.org/document/11095374). *IEEE Transactions on Intelligent Transportation Systems*, 26(11), 19214-19226.
+- Wang, S. (2025). [An analytical framework for modeling and synthesizing malicious attacks on adaptive cruise control vehicles](https://journals.sagepub.com/doi/10.1177/03611981251320384). *Transportation Research Record: Journal of the Transportation Research Board*, 2679(5), 142-156.
+- Aguilar, J. A. & S. Wang (2025). [Impacts of electric vehicles on traffic-power systems: A review](https://www.tandfonline.com/doi/full/10.1080/15568318.2024.2449436). *International Journal of Sustainable Transportation*, 19(2), 103-120.
+- Li, T., M. Shang, S. Wang, & R. Stern (2024). [Detecting subtle cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://ieeexplore.ieee.org/document/10819009). *IEEE Open Journal of Intelligent Transportation Systems*, 6, 11-23.
+- Ahmed, S. & S. Wang (2024). [A systematic review of the impacts of electric vehicles on evolving transportation systems](https://www.maxapress.com/article/doi/10.48130/dts-0024-0020). *Digital Transportation and Safety*, 3(4), 220-232.
+- Wang, S. (2024). [Autonomous vehicle control through socially compliant human-robot interactions with an application to eco-driving](https://ieeexplore.ieee.org/document/10648851). *IEEE Transactions on Intelligent Transportation Systems*, 25(11), 17821-17830.
 
 
 
