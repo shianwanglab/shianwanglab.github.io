@@ -41,6 +41,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - Undergraduate Students: Haveeair Caballero, Fernando Sepulveda
 
 # 📝 Publications 
+If you would like a copy of the articles, please email me directly. I would be happy to send them to you.
 **Books**
 - Ahmed, N. U. & S. Wang. [Measure-valued solutions for nonlinear evolution equations on Banach spaces and their optimal control](https://link.springer.com/book/10.1007/978-3-031-37260-5). *Springer*, 2023 (227 pages).
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
@@ -57,6 +58,9 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - Li, T., M. Shang, S. Wang, & R. Stern (2024). [Detecting subtle cyberattacks on adaptive cruise control vehicles: A machine learning approach](https://ieeexplore.ieee.org/document/10819009). *IEEE Open Journal of Intelligent Transportation Systems*, 6, 11-23.
 - Ahmed, S. & S. Wang (2024). [A systematic review of the impacts of electric vehicles on evolving transportation systems](https://www.maxapress.com/article/doi/10.48130/dts-0024-0020). *Digital Transportation and Safety*, 3(4), 220-232.
 - Wang, S. (2024). [Autonomous vehicle control through socially compliant human-robot interactions with an application to eco-driving](https://ieeexplore.ieee.org/document/10648851). *IEEE Transactions on Intelligent Transportation Systems*, 25(11), 17821-17830.
+- Wang, S., M. Shang, & R. Stern (2024). [Analytical characterization of cyberattacks on adaptive cruise control vehicles](https://ieeexplore.ieee.org/document/10609779). *IEEE Transactions on Intelligent Transportation Systems*, 25(11), 16409-16420.
+- Shang, M., S. Wang, & R. Stern (2024). [A two-condition continuous asymmetric car-following model for adaptive cruise control vehicles](https://ieeexplore.ieee.org/document/10380740). *IEEE Transactions on Intelligent Vehicles, 9(2), 3975-3985.
+- Wang, S., M. W. Levin, & R. Stern (2023). [Optimal feedback control law for automated vehicles in the presence of cyberattacks: A min-max approach](https://www.sciencedirect.com/science/article/pii/S0968090X23001936). *Transportation Research Part C: Emerging Technologies*, 153, 104204. 
 
 
 
