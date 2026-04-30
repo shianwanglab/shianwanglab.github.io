@@ -39,7 +39,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 **Alumni**
 <!-- - Ph.D. Students: -->
-- M.S. Students: Jose Carlos Acedo Aguilar 
+- M.S. Students: Jose Carlos Acedo Aguilar (UTEP Outstanding Thesis Nominee)
 - Undergraduate Students: Haveeair Caballero, Fernando Sepulveda
 
 
