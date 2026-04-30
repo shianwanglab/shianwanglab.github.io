@@ -79,6 +79,44 @@ If you would like a copy of the articles, please email me directly. I would be h
 
 
 **Conference Proceedings**
+- Ahmed, S., S. Wang., & A. Kondyli. Examining the effectiveness of traffic-smoothing autonomous vehicle controllers in the presence of lane-changing maneuvers. *The 37th IEEE Intelligent Vehicles Symposium (IV 2026)*.
+- Li, T., S. Wang, M. Shang, S. Choi, & R. Stern (2024). [A customizable neural network based framework for autonomous vehicle control with human-guided learning](https://ieeexplore.ieee.org/abstract/document/10919962). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 3064-3069.
+- Aguilar, J. A., F. Sepulveda, & S. Wang (2024). [An impact evaluation of strategic cyberattacks on autonomous vehicles: Safety, mobility, and energy consumption](https://ieeexplore.ieee.org/abstract/document/10919948). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 2524-2529.
+- Aguilar, J. A. & S. Wang (2024). [A simple and efficient speed control method for autonomous vehicles to improve traffic performance](https://ieeexplore.ieee.org/abstract/document/10919758). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 1348-1353.
+- Caballero, H., Y. Sang, & S. Wang (2024). [An energy-efficient routing algorithm for electric delivery trucks considering battery constraints and traffic flow](https://ieeexplore.ieee.org/document/10741639). *The 56th North American Power Symposium (NAPS 2024)*.
+- Aguilar, J. A., S. Wang, & M. Velez-Reyes (2024). [Impacts of electric adaptive cruise control vehicles on emergent traffic flow: A simulation study](https://ieeexplore.ieee.org/document/10741633). *The 56th North American Power Symposium (NAPS 2024)*.
+- Shang, M., S. Wang, T. Li, & R. Stern (2024). [Interaction-aware model predictive control for autonomous vehicles in mixed-autonomy traffic](https://ieeexplore.ieee.org/abstract/document/10588654). *The 35th IEEE Intelligent Vehicles Symposium (IV 2024)*, 317-322.
+- Li, T., S. Wang, M. Shang, & R. Stern (2024). [Can cyberattacks on adaptive cruise control vehicles be effectively detected?](https://ieeexplore.ieee.org/abstract/document/10588379) *The 35th IEEE Intelligent Vehicles Symposium (IV 2024)*, 323-328.
+- Aguilar, J. A. & S. Wang (2024). [Energy impacts of traffic-smoothing cruise controllers on mixed traffic](https://ieeexplore.ieee.org/abstract/document/10485545). *The 4th IEEE Forum for Innovative Sustainable Transportation Systems (FISTS 2024)*, 1-6. ([Best Paper Runner-Up Award](https://ieee-fists.org/2024/awards/))
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # 🎖 Honors and Awards
