@@ -35,7 +35,10 @@ Current Members
 - *M.S. students*: Logan Pittman
 - *Undergraduate students*: Albert Agah
 
-
+Alumni
+- *Ph.D. students*: 
+- *M.S. students*: Jose Carlos Acedo Aguilar 
+- *Undergraduate students*: Haveeair Caballero, Fernando Sepulveda
 
 # 📝 Publications 
 
