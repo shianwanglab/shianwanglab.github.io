@@ -46,7 +46,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
 
 **Journal articles**
-
+- Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles. *Transportation Research Record: Journal of the Transportation Research Board*.
 
 
 
