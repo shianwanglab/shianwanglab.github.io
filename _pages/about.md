@@ -50,7 +50,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 Courses previously taught at UTEP
 - ECE 5380/6380: Linear Systems Analysis (Spring 2025)
-- ECE 4390/5390: Transportation Cyber-Physical Systems (Spring 2025, Spring 2024)
+- ECE 4390/5390: Transportation Cyber-Physical Systems (Spring 2024, 2025)
 - ECE 4338/5390: Systems and Controls (Fall 2024)
 - ECE 4364/5390: Systems and Controls (Fall 2023)
 
