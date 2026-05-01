@@ -133,4 +133,4 @@ I accept graduate students through the [Department of Civil, Environmental, and 
 - School of Engineering Undergraduate Research Fellowship (UGRF): [https://engr.ku.edu/undergraduate-research-fellows](https://engr.ku.edu/undergraduate-research-fellows)
 - KU Undergraduate Research Awards (UGRAs): [https://curf.ku.edu/undergraduate-research-awards](https://curf.ku.edu/undergraduate-research-awards)
 
-I hope this information is helpful as you continue your search.   
+I hope this information is helpful as you continue your search.  
