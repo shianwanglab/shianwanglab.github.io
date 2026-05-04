@@ -1,7 +1,7 @@
 # main links links
-main:
-  - title: 'Homepage <img src="/images/Jayhawk.png" style="width:20px; height:20px; vertical-align: middle; margin-left: 4px;">'
-    url: "/#about-me"
+main: '<img src="/images/Jayhawk.png" style="width:22px; height:20px; vertical-align: middle;">'
+#  - title: "About me"
+#    url: "/#about-me"
 
 #  - title: "News"
 #    url: "/#-news"
