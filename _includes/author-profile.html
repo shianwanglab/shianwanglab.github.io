@@ -23,8 +23,17 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><span class="fa-fw fa-inline"><img src="{{ site.baseurl }}/images/Institution.png" alt="Institution" style="width: 1rem; height: 1rem; display: inline-block; vertical-align: -.125em;"></span> {{ author.employer }}</li>
+        <li>
+          <!-- 1. Creates a fixed-width container to force center alignment -->
+          <span style="display: inline-block; width: 1.25em; text-align: center; margin-right: 0.3em; font-size: 1.1em;">
+          <!-- 2. The image itself: smaller (0.9em) and vertically adjusted -->
+          <img src="{{ site.baseurl }}/images/university_icon.png" alt="University Icon" style="max-width: 0.9em; max-height: 0.9em; vertical-align: -0.1em; display: inline-block;">
+          </span>
+      {{ author.employer }}
+        </li>
       {% endif %}
+       <!-- <li><span class="fa-fw fa-inline"><img src="{{ site.baseurl }}/images/Institution.png" alt="Institution" style="width: 1rem; height: 1rem; display: inline-block; vertical-align: -.125em;"></span> {{ author.employer }}</li>
+      {% endif %} -->
       <!-- {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %} -->
