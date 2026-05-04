@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shi'an Wang"
-description              : "Assistant Professor @ KU"
+description              : 'Assistant Professor @ KU <img src="/images/Jayhawk.png" style="width: 14px; vertical-align: middle; margin-left: 4px;">' 
 repository               : "shianwanglab/shianwanglab.github.io"
 google_scholar_stats_use_cdn : true
 
