@@ -27,6 +27,7 @@ I earned my Ph.D. in civil engineering from the University of Minnesota, where I
 
 
 # 🔥 News
+- May 2026: Albert Agah received an [Undergraduate Research Award (UGRA)](https://curf.ku.edu/undergraduate-research-awards) to support original student research.
 - May 2026: Don't miss the inaugural [Midwest Innovation and Development in Transportation Symposium (MIDTRANS 2026)](https://kutc.ku.edu/midtrans-2026)! Connect with leading researchers and industry professionals and explore the latest advances in transportation. Check it out and register today!
 <!-- - May 2026: A and B won KU SoE scholarships. -->
 
