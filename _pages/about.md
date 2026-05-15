@@ -93,7 +93,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Wang, S. & N. U. Ahmed (2019). [Optimum management of the network of city bus routes based on a stochastic dynamic model](https://www.aimsciences.org/article/doi/10.3934/jimo.2018061). *Journal of Industrial and Management Optimization, 15(2), 619-631.
 - Wang, S. & N. U. Ahmed (2017). [Dynamic model of urban traffic and optimum management of its flow and congestion](https://acadsol.eu/dsa/26/34/12). *Dynamic Systems and Applications*, 26, 575-587.
 
-**Conference Proceedings**
+**Peer-reviewed Conference Proceedings**
 - Ahmed, S., S. Wang., & A. Kondyli. Examining the effectiveness of traffic-smoothing autonomous vehicle controllers in the presence of lane-changing maneuvers. *The 37th IEEE Intelligent Vehicles Symposium (IV 2026)*.
 - Li, T., S. Wang, M. Shang, S. Choi, & R. Stern (2024). [A customizable neural network based framework for autonomous vehicle control with human-guided learning](https://ieeexplore.ieee.org/abstract/document/10919962). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 3064-3069.
 - Aguilar, J. A., F. Sepulveda, & S. Wang (2024). [An impact evaluation of strategic cyberattacks on autonomous vehicles: Safety, mobility, and energy consumption](https://ieeexplore.ieee.org/abstract/document/10919948). *The 27th IEEE International Conference on Intelligent Transportation Systems (ITSC 2024)*, 2524-2529.
