@@ -65,7 +65,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 
 **Journal Articles**
 - Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles. *Transportation Research Record: Journal of the Transportation Research Board*.
-- Wang, S., M. W. Levin, & R. Stern. [String stable control design for automated vehicles under cyberattacks](https://www.tandfonline.com/doi/full/10.1080/15472450.2024.2425297). *Journal of Intelligent Transportation Systems*, 1-13.
+- Wang, S., M. W. Levin, & R. Stern (2026). [String stable control design for automated vehicles under cyberattacks](https://www.tandfonline.com/doi/abs/10.1080/15472450.2024.2425297). *Journal of Intelligent Transportation Systems*, 30(1), 177-189.
 - Pang, S., D. Patel, Y. Liu, S. Wang, C. Lin, S. He, & T. Li (2026). [Large language models for car following in automated driving: Opportunities and challenges](https://www.sciencedirect.com/science/article/pii/S3050860626000025). *Artificial Intelligence for Transportation*, 6, 100047.
 - He, S., S. Wang, Y. Shao, Z. Sun, & M. W. Levin (2026). [A connectivity-based real-time traffic prediction considering lane-changing maneuvers with application to eco-driving control of electric vehicles](https://ieeexplore.ieee.org/document/11097903). *IEEE Transactions on Vehicular Technology*, 75(1), 168-181.
 - Pan, M., W. Li, C. Wang, S. Wang, F. Li, J. Dong, & J. New (2025). [Evaluating system responses to electric vehicle charging infrastructure expansion through data-driven simulation](https://www.sciencedirect.com/science/article/pii/S2213138825003960). *Sustainable Energy Technologies and Assessments*, 82, 104565.
