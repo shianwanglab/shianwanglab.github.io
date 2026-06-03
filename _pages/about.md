@@ -63,6 +63,9 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Ahmed, N. U. & S. Wang. [Measure-valued solutions for nonlinear evolution equations on Banach spaces and their optimal control](https://link.springer.com/book/10.1007/978-3-031-37260-5). *Springer*, 2023 (227 pages).
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
 
+**Book Chapters**
+- Shang, M., B. Rosenblad, S. Wang, & R. Stern. Ramp metering control for mixed-autonomy traffic. *Traffic and Autonomy*, SEMA SIMAI Springer Series (SEMA SIMAI, volume 44).
+
 **Journal Articles**
 - Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles. *Transportation Research Record: Journal of the Transportation Research Board*.
 - Wang, S., M. W. Levin, & R. Stern (2026). [String stable control design for automated vehicles under cyberattacks](https://www.tandfonline.com/doi/abs/10.1080/15472450.2024.2425297). *Journal of Intelligent Transportation Systems*, 30(1), 177-189.
