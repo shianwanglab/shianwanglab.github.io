@@ -64,7 +64,7 @@ If you would like a copy of the articles, please email me directly. I would be h
 - Ahmed, N. U. & S. Wang. [Optimal control of dynamic systems driven by vector measures: Theory and applications](https://link.springer.com/book/10.1007/978-3-030-82139-5). *Springer*, 2021 (320 pages). 
 
 **Book Chapters**
-- Shang, M., B. Rosenblad, S. Wang, & R. Stern. Ramp metering control for mixed-autonomy traffic. *Traffic and Autonomy*, SEMA SIMAI Springer Series (SEMA SIMAI, volume 44).
+- Shang, M., B. Rosenblad, S. Wang, & R. Stern. [Ramp metering control for mixed-autonomy traffic](https://link.springer.com/book/9783032246288). *Traffic and Autonomy*, SEMA SIMAI Springer Series (SEMA SIMAI, volume 44).
 
 **Journal Articles**
 - Guo, J., S. Wang, S. He, M. Zamanpour, & Z. Sun. [Energy-efficient control of connected autonomous electric vehicles in mixed traffic with human-driven vehicles](https://journals.sagepub.com/doi/10.1177/03611981261448534). *Transportation Research Record: Journal of the Transportation Research Board*.
