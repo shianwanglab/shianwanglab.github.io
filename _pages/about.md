@@ -159,7 +159,7 @@ I hope this information is helpful as you continue your search.
   <!-- Photo 2 -->
   <!-- 
   <figure style="flex: 1; min-width: 220px; max-width: 300px; margin: 0; text-align: center;">
-    <img src="/assets/images/photo2.jpg" alt="Research Activity 2" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/photo2.jpg" alt="Research Activity 2" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: 8px; line-height: 1.4;">
       Group presentation at the annual symposium.
     </figcaption>
@@ -169,7 +169,7 @@ I hope this information is helpful as you continue your search.
   <!-- Photo 3 -->
   <!--
   <figure style="flex: 1; min-width: 220px; max-width: 300px; margin: 0; text-align: center;">
-    <img src="/assets/images/photo3.jpg" alt="Research Activity 3" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/photo3.jpg" alt="Research Activity 3" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: 8px; line-height: 1.4;">
       Data collection run along local transit routes.
     </figcaption>
