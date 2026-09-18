@@ -150,7 +150,7 @@ I hope this information is helpful as you continue your search.
 <div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; margin: 20px 0;">
 
   <!-- Photo 1 -->
-  <figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
+  <figure style="flex: 1; min-width: 180px; max-width: 240px; margin: 0; text-align: center;">
     <img src="images/Quanser_QCar.jpg" alt="Quanser QCar" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
       Quanser self-driving car (QCar).
@@ -181,34 +181,13 @@ I hope this information is helpful as you continue your search.
     </figcaption>
   </figure>
 
-</div>
-
-
-<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; margin: 20px 0;">
-
-  <!-- Photo 1 -->
-  <figure style="flex: 1; min-width: 180px; max-width: 240px; margin: 0; text-align: center;">
-    <img src="images/Quanser_QCar.jpg" alt="Quanser QCar" style="width: 100%; height: 130px; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3;">
-      Quanser self-driving car (QCar).
-    </figcaption>
-  </figure>
-
-  <!-- Photo 2 -->
-  <figure style="flex: 1; min-width: 180px; max-width: 240px; margin: 0; text-align: center;">
-    <img src="images/Quanser_QCars.jpg" alt="Quanser Studio" style="width: 100%; height: 130px; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3;">
-      Quanser self-driving car studio (SDCS).
-    </figcaption>
-  </figure>
-
-  <!-- Photo 3 -->
-  <figure style="flex: 1; min-width: 180px; max-width: 240px; margin: 0; text-align: center;">
-    <img src="images/Radar_inside.jpeg" alt="Data Collection" style="width: 100%; height: 130px; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3;">
-      Real-world traffic data collection.
-    </figcaption>
-  </figure>
+  <!-- Photo 5 -->
+<figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
+  <img src="images/Radar_inside.jpeg" alt="Research Activity 1" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
+    Real-world traffic data collection.
+  </figcaption>
+</figure>
 
 </div>
 
