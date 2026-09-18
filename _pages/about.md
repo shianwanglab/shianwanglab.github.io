@@ -151,7 +151,7 @@ I hope this information is helpful as you continue your search.
   <!-- Photo 1 -->
   <figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
     <img src="images/Radar_inside.jpeg" alt="Research Activity 1" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <figcaption style="font-size: 0.88em; color: #555; margin-top: 1px; line-height: 1.3;">
+    <figcaption style="font-size: 0.88em; color: #555; margin-top: -6px; line-height: 1.3;">
       Real-world traffic data collection.
     </figcaption>
   </figure>
