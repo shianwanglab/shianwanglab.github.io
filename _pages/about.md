@@ -143,3 +143,37 @@ I accept graduate students through the [Department of Civil, Environmental, and 
 - KU Undergraduate Research Awards (UGRAs): [https://curf.ku.edu/undergraduate-research-awards](https://curf.ku.edu/undergraduate-research-awards)
 
 I hope this information is helpful as you continue your search.  
+
+
+# ⚡ Research in Action
+<div style="display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; align-items: flex-start; margin: 20px 0;">
+
+  <!-- Photo 1 -->
+  <figure style="flex: 1; min-width: 220px; max-width: 300px; margin: 0; text-align: center;">
+    <img src="images/Radar_inside.jpeg" alt="Research Activity 1" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <figcaption style="font-size: 0.88em; color: #555; margin-top: 8px; line-height: 1.4;">
+      Testing autonomous vehicle algorithms on track.
+    </figcaption>
+  </figure>
+
+  <!-- Photo 2 -->
+  <!-- 
+  <figure style="flex: 1; min-width: 220px; max-width: 300px; margin: 0; text-align: center;">
+    <img src="/assets/images/photo2.jpg" alt="Research Activity 2" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <figcaption style="font-size: 0.88em; color: #555; margin-top: 8px; line-height: 1.4;">
+      Group presentation at the annual symposium.
+    </figcaption>
+  </figure>
+  -->
+
+  <!-- Photo 3 -->
+  <!--
+  <figure style="flex: 1; min-width: 220px; max-width: 300px; margin: 0; text-align: center;">
+    <img src="/assets/images/photo3.jpg" alt="Research Activity 3" style="width: 100%; height: auto; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <figcaption style="font-size: 0.88em; color: #555; margin-top: 8px; line-height: 1.4;">
+      Data collection run along local transit routes.
+    </figcaption>
+  </figure>
+  -->
+
+</div>
