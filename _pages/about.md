@@ -151,7 +151,7 @@ I hope this information is helpful as you continue your search.
 
   <!-- Photo 1 -->
   <figure style="flex: 1; min-width: 180px; max-width: 240px; margin: 0; text-align: center;">
-    <img src="images/Quanser_QCar.jpg" alt="Quanser QCar" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/Quanser_QCar.jpg" alt="Quanser QCar" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
       Quanser self-driving car (QCar).
     </figcaption>
@@ -159,7 +159,7 @@ I hope this information is helpful as you continue your search.
 
   <!-- Photo 2 -->
   <figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
-    <img src="images/Quanser_QCars.jpg" alt="Quanser Studio" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/Quanser_QCars.jpg" alt="Quanser Studio" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
       Quanser self-driving car studio (SDCS).
     </figcaption>
@@ -167,7 +167,7 @@ I hope this information is helpful as you continue your search.
 
   <!-- Photo 3 -->
   <figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
-    <img src="images/MiniSim.png" alt="MiniSim" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/MiniSim.png" alt="MiniSim" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
       Simplified Cab miniSim.
     </figcaption>
@@ -175,19 +175,11 @@ I hope this information is helpful as you continue your search.
   
   <!-- Photo 4 -->
   <figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
-    <img src="images/Radar_inside.jpeg" alt="Data Collection" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <img src="images/Radar_inside.jpeg" alt="Data Collection" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
       Real-world traffic data collection.
     </figcaption>
   </figure>
-
-  <!-- Photo 5 -->
-<figure style="flex: 1; min-width: 150px; max-width: 200px; margin: 0; text-align: center;">
-  <img src="images/Radar_inside.jpeg" alt="Research Activity 1" style="width: 100%; height: auto; display: block; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <figcaption style="font-size: 0.88em; color: #555; margin-top: -8px; line-height: 1.3; text-align: center;">
-    Real-world traffic data collection.
-  </figcaption>
-</figure>
 
 </div>
 
